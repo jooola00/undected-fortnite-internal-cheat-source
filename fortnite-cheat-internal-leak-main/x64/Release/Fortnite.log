@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Nuclear.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling trinity.asm...
+  trinity.cpp
+x64\Release\trinity.obj : warning LNK4042: object specified more than once; extras ignored
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Fortnite.vcxproj -> C:\Users\Flow\Desktop\65goonz\fortnite-cheat-internal-leak-main\x64\Release\nig.dll
