@@ -1,4 +1,4 @@
-# undected-fortnite-internal-cheat-source
+# undetected-fortnite-internal-cheat-source
 
 cheat source that someone sold to me its actually good so go and paste it
 
